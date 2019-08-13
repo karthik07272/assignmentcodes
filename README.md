@@ -1,1 +1,1 @@
-# karthik07272.github.io
+to check array are equal or not
