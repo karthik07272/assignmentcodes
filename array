@@ -1,11 +1,11 @@
 #include<stdio.h>
 int main()
 {
-    int t,n,i,min=10000000000,k;
+    int t,n,i,min=100,k;
     scanf("%d",&t);
     while(t--)
     {
-     min=10000000000;
+     min=100;
      scanf("%d%d",&n,&k);
      int a[n];
      for(i=0;i<n;i++)
